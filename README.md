@@ -17,6 +17,16 @@ I co-founded [Asket Studio](https://asketstudio.in) and work on a project from t
 |---|---|---|---|
 | UI/UX, design systems and app interfaces in Figma | Catalogue and brand sites in PHP and JavaScript, motion with GSAP | Android apps in Kotlin and Material 3 | Technical audits, site structure, schema, Search Console |
 
+## Latest work
+
+<p>
+<a href="https://letozagranito.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work/letoza-dark.png"><img src="assets/work/letoza-light.png" alt="Letoza Granito" width="32%"></picture></a>
+<a href="https://leopardvitrified.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work/leopard-dark.png"><img src="assets/work/leopard-light.png" alt="Leopard Vitrified" width="32%"></picture></a>
+<a href="https://championconstructionchemicals.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work/champion-dark.png"><img src="assets/work/champion-light.png" alt="Champion Construction Chemicals" width="32%"></picture></a>
+</p>
+
+Three new sites, designed, built and optimised for search by me: [Letoza Granito](https://letozagranito.com/) and [Leopard Vitrified](https://leopardvitrified.com/), vitrified and porcelain tile makers from Morbi, and [Champion Construction Chemicals](https://championconstructionchemicals.com/), which makes tile adhesives, waterproofing and wall putty.
+
 ## Selected work
 
 <p>
